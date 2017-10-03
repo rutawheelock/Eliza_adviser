@@ -1,0 +1,56 @@
+Script started on Mon 18 Sep 2017 12:35:16 AM CDT
+[4mukko[24m:[1m~/CS_5761/assignments[0m% ./1PA.py 
+This is Eliza The Academic Advisor, programmed by Ruta Wheelock.
+
+->[eliza] Hi, I'm an academic advisor. What is your name?
+=> Emma
+->[eliza] Nice to meet you, Emma.
+->[eliza] What is your major?
+=>[Emma] I'm undeclared
+->[eliza] That is ok. What is your favourite course so far?
+=>[Emma] I don't have any
+->[eliza] Interesting.
+->[eliza] How can I help you today?
+=>[Emma] I wanted to ask when is fall break?
+->[eliza] Time is relative. Why do you want to know when is fall break?
+=>[Emma] I hate my classes and can't wait to be done
+->[eliza] Please calm down!
+=>[Emma] Ok, all my classes suck and I need a break
+->[eliza] Please mind your language.
+=>[Emma] Do you know how can I get rich without doing anything?
+->[eliza] That's a good question. Do you have any ideas how to get rich without doing anything?
+=>[Emma] Well, I could rob a bank and be bad ass
+->[eliza] We are not talking about donkeys now.
+=>[Emma] I'm not sure what are we talking about
+->[eliza] Why do you think you are not sure what are we talking about?
+=>[Emma] k;jksdf987897
+->[eliza] I am not clear what you mean by that. Can you clarify?
+=>[Emma] No
+->[eliza] You mentioned that you don't have your favourite course. Why so?
+=>[Emma] I don't know what I want to do with my life
+->[eliza] I am concerned that you do not know.
+=>[Emma] You are not helpful
+->[eliza] It is not about me but your academic success.
+=>[Emma] This conversation makes me nervous
+->[eliza] When you are nervous, how do you relax?
+=>[Emma] I don't
+->[eliza] How do you like college life so far?
+=>[Emma] I love it!!!  
+->[eliza] What else do you love?
+=>[Emma] Sleeping, eating, doing nothing
+->[eliza] Have you thought about what would you like to do after college?
+=>[Emma] I am not thinking about it yet     yet
+->[eliza] What makes you say that you are not thinking about it yet?
+=>[Emma] Because I even don't know how to register for classes!                                                      Everything!!!!
+->[eliza] You are getting very emotional.
+=>[Emma] akjdhf9878jh
+->[eliza] I didn't quite understand. Can you say that another way?
+=>[Emma] It's bullshit!
+->[eliza] I told you, such language is not permitted.
+=>[Emma] I\I'm done talking to you!                         '' m done taling to you.           king
+->[eliza] Is there anything else you would like to ask?
+=>[Emma] exit
+[4mukko[24m:[1m~/CS_5761/assignments[0m% exit
+exit
+
+Script done on Mon 18 Sep 2017 12:43:19 AM CDT

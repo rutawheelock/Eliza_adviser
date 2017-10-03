@@ -1,0 +1,58 @@
+Script started on Mon 18 Sep 2017 12:19:17 AM CDT
+[4mukko[24m:[1m~/CS_5761/assignments[0m% ./1PA.py 
+This is Eliza The Academic Advisor, programmed by Ruta Wheelock.
+
+->[eliza] Hi, I'm an academic advisor. What is your name?
+=> My name is Sarah Lielupe
+->[eliza] Nice to meet you, Sarah.
+->[eliza] What is your major?
+=>[Sarah] Computer Science
+->[eliza] Computer Science is a great field.
+->[eliza] How can I help you today?
+=>[Sarah] I'm wondering how many credit hours I need to graduate?
+->[eliza] How many credit hours do you expect you need to graduate?
+=>[Sarah] 24 or so. I hope to gradute next Spring. Do you know when does the Spring semester start?
+->[eliza] Does the spring semester make you nervous?
+=>[Sarah] No really. I'm more curious to know when is the finals week?
+->[eliza] Time is relative. Why do you want to know when is the finals week?
+=>[Sarah] Because I'm nervous about exams
+->[eliza] When you are nervous, how do you relax?
+=>[Sarah] I enjoy riding a mountain bike and running.
+->[eliza] What else do you enjoy?
+=>[Sarah] Having more free time. Do you know when is fall break?
+->[eliza] Remember, fall break will come and go but the most important is what will you do after that?
+=>[Sarah] I don't know
+->[eliza] I am concerned that you do not know.
+=>[Sarah] Me too. I also don't know how many classes I need for Math minor?
+->[eliza] How many classes do you think you need for math minor?
+=>[Sarah] You make me anxious.
+->[eliza] Have you considered meditation?
+=>[Sarah] Yes! I'll need it after this advising session.
+->[eliza] You said that your major is Computer Science. Why did you choose it?
+=>[Sarah] Because I like programming.
+->[eliza] Good to hear that.
+=>[Sarah] Can I ask you a question?
+->[eliza] Of course. What would you like to know?
+=>[Sarah] When does the class registration for Spring start?
+->[eliza] How does the class registration for spring make you feel?
+=>[Sarah] You are not providing any answers.
+->[eliza] It is not about me but your academic success.
+=>[Sarah] For my academic success I need to know how to register for classes? ?
+->[eliza] That's a good question. Do you have any ideas how to register for classes?
+=>[Sarah] I'' m not confident
+->[eliza] Why do you think you are not confident?
+=>[Sarah] Hard to tell
+->[eliza] How do you like college life so far?
+=>[Sarah] Not too bad. Can I ask you another question?
+->[eliza] You betcha!
+=>[Sarah] Why are you so unreal?!!!
+->[eliza] You are getting very emotional.
+=>[Sarah] yes!!!      YES!!!
+->[eliza] No need to be shouting here.
+=>[Sarah] You are not a real academic advisor.
+->[eliza] Looks like you do not appreciate my help.
+=>[Sarah] exit
+[4mukko[24m:[1m~/CS_5761/assignments[0m% exit
+exit
+
+Script done on Mon 18 Sep 2017 12:26:43 AM CDT
