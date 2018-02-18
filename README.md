@@ -1,15 +1,15 @@
-# Eliza the Academic Advisor
+# Eliza the Academic Adviser
 Developed as an assignment for University of Minnesota Duluth course Intro to Natural Language Processing.  
 Author: Ruta Wheelock  
 Date: 9/18/2017  
 
 ## Description
-This program simulates a student's conversation with an academic advisor.  
+This program simulates a student's conversation with an academic adviser.  
 The user can ask questions to the advisor using chat dialog in command prompt.  
 
 To run the program execute
 ```
-./1PA.py
+./eliza_adviser.py
 ```
 in termianl window from the location where this file is saved.  
 To stop dialog with Eliza, type '**exit**'

@@ -10,7 +10,7 @@
 # This program simulates a student's conversation with an academic advisor.
 # The user can ask questions to the advisor using chat dialog in command prompt.
 #
-# To run the program execute ./1PA.py in termianl window from the location where this file is saved.
+# To run the program execute ./eliza_adviser.py in termianl window from the location where this file is saved.
 # To stop dialog with Eliza, type 'exit'
 #
 # At first Eliza will ask your name and major, and will store that information for later use.
